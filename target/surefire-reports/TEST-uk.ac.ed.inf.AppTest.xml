@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="21" failures="0" name="uk.ac.ed.inf.AppTest" time="0.542" errors="0" skipped="0">
+  <properties>
+    <property name="idea.version" value="2020.2.1"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="java.vm.version" value="14.0.2+12-46"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-14.0.2\bin"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\letic\OneDrive\Documentos\3ILP\ilp"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="GB"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\Users\letic\OneDrive\Documentos\3ILP\ilp"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="java.runtime.version" value="14.0.2+12-46"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\letic\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="maven.ext.class.path" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.1\plugins\maven\lib\maven-event-listener.jar"/>
+    <property name="classworlds.conf" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.1\plugins\maven\lib\maven3\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-14.0.2\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files\Java\jdk-15\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\letic\Downloads\gradle-6.8.2-all\gradle-6.8.2\bin;C:\Program Files\Git\cmd;C:\ProgramData\chocolatey\bin;C:\Program Files\nodejs\;C:\Users\letic\anaconda3;C:\Program Files\Java\jdk-14.0.2\bin;C:\Users\letic\AppData\Roaming\local\bin;C:\Users\letic\AppData\Local\Microsoft\WindowsApps;C:\Users\letic\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\CodeBlocks\MinGW\bin;C:\Users\letic\AppData\Roaming\cabal\bin;C:\ProgramData\chocolatey\lib\ghc\tools\ghc-8.10.3\bin;C:\tools\msys64;C:\Users\letic\AppData\Roaming\npm;C:\Users\letic\AppData\Local\GitHubDesktop\bin;C:\Program Files\heroku\bin;C:\Users\letic\AppData\Roaming\TinyTeX\bin\win32;."/>
+    <property name="maven.conf" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.1\plugins\maven\lib\maven3/conf"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.class.version" value="58.0"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\letic"/>
+    <property name="user.timezone" value="Europe/London"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.specification.version" value="14"/>
+    <property name="user.name" value="letic"/>
+    <property name="java.class.path" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.1\plugins\maven\lib\maven3\boot\plexus-classworlds-2.6.0.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.1\plugins\maven\lib\maven3\boot\plexus-classworlds.license"/>
+    <property name="java.vm.specification.version" value="14"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="sun.java.command" value="org.codehaus.classworlds.Launcher -Didea.version=2020.2.1 package"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-14.0.2"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.version" value="14.0.2"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.1\plugins\maven\lib\maven3"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.version.date" value="2020-07-14"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase classname="uk.ac.ed.inf.AppTest" name="testCloseToFalse" time="0.003"/>
+  <testcase classname="uk.ac.ed.inf.AppTest" name="testAngle20" time="0"/>
+  <testcase classname="uk.ac.ed.inf.AppTest" name="testAngle50" time="0"/>
+  <testcase classname="uk.ac.ed.inf.AppTest" name="testAngle90" time="0"/>
+  <testcase classname="uk.ac.ed.inf.AppTest" name="testCloseToTrue" time="0"/>
+  <testcase classname="uk.ac.ed.inf.AppTest" name="testMenusFourA" time="0.49"/>
+  <testcase classname="uk.ac.ed.inf.AppTest" name="testMenusFourB" time="0.012"/>
+  <testcase classname="uk.ac.ed.inf.AppTest" name="testMenusThree" time="0.011"/>
+  <testcase classname="uk.ac.ed.inf.AppTest" name="testAngle140" time="0"/>
+  <testcase classname="uk.ac.ed.inf.AppTest" name="testAngle190" time="0"/>
+  <testcase classname="uk.ac.ed.inf.AppTest" name="testAngle260" time="0"/>
+  <testcase classname="uk.ac.ed.inf.AppTest" name="testAngle300" time="0"/>
+  <testcase classname="uk.ac.ed.inf.AppTest" name="testAngle350" time="0.001"/>
+  <testcase classname="uk.ac.ed.inf.AppTest" name="testAngle999" time="0"/>
+  <testcase classname="uk.ac.ed.inf.AppTest" name="testMenusOne" time="0.015"/>
+  <testcase classname="uk.ac.ed.inf.AppTest" name="testMenusTwo" time="0.009"/>
+  <testcase classname="uk.ac.ed.inf.AppTest" name="testAngle0" time="0.001"/>
+  <testcase classname="uk.ac.ed.inf.AppTest" name="testIsConfinedFalse" time="0"/>
+  <testcase classname="uk.ac.ed.inf.AppTest" name="testIsConfinedTrueA" time="0"/>
+  <testcase classname="uk.ac.ed.inf.AppTest" name="testIsConfinedTrueB" time="0"/>
+  <testcase classname="uk.ac.ed.inf.AppTest" name="testDistanceTo" time="0"/>
+</testsuite>
